@@ -1,6 +1,6 @@
 package main
 
-// Chapter 14.3 testing the activation email
+// Chapter 16
 
 import (
 	"context"
